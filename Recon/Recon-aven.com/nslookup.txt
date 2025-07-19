@@ -1,0 +1,13 @@
+Server:		192.168.104.6
+Address:	192.168.104.6#53
+
+Non-authoritative answer:
+Name:	aven.com
+Address: 108.139.200.91
+Name:	aven.com
+Address: 108.139.200.43
+Name:	aven.com
+Address: 108.139.200.83
+Name:	aven.com
+Address: 108.139.200.3
+

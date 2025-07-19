@@ -1,0 +1,117 @@
+   Domain Name: AVEN.COM
+   Registry Domain ID: 780365_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.squarespace.domains
+   Registrar URL: http://domains2.squarespace.com
+   Updated Date: 2025-02-25T08:50:15Z
+   Creation Date: 1995-03-11T05:00:00Z
+   Registry Expiry Date: 2026-03-12T05:00:00Z
+   Registrar: Squarespace Domains II LLC
+   Registrar IANA ID: 895
+   Registrar Abuse Contact Email: abuse-complaints@squarespace.com
+   Registrar Abuse Contact Phone: +1.6466935324
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-1077.AWSDNS-06.ORG
+   Name Server: NS-1551.AWSDNS-01.CO.UK
+   Name Server: NS-160.AWSDNS-20.COM
+   Name Server: NS-869.AWSDNS-44.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-07-19T16:08:59Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+Domain Name: aven.com
+Registry Domain ID: 780365_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.squarespace.domains
+Registrar URL: https://domains2.squarespace.com
+Registrar: Squarespace Domains II LLC
+Registrar IANA ID: 895
+Registrar Abuse Contact Email: abuse-complaints@squarespace.com
+Registrar Abuse Contact Phone: +1.646-693-5324
+Reseller:
+Updated Date: 2025-02-25T08:50:15.514641Z
+Creation Date: 1995-03-11T05:00:00Z
+Registrar Registration Expiration Date: 2026-03-12T05:00:00Z
+Domain Status: client transfer prohibited http://www.icann.org/epp#client transfer prohibited
+Domain Status: client delete prohibited http://www.icann.org/epp#client delete prohibited
+Registry Registrant ID:
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Heracles Inc.
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: CA
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: US
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext:
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext:
+Registrant Email: https://domains.squarespace.com/whois-contact-form
+Registry Admin ID:
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: Heracles Inc.
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: CA
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: US
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext:
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext:
+Admin Email: https://domains.squarespace.com/whois-contact-form
+Registry Tech ID:
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: Heracles Inc.
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: CA
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: US
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext:
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext:
+Tech Email: https://domains.squarespace.com/whois-contact-form
+Name Server: ns-1551.awsdns-01.co.uk
+Name Server: ns-869.awsdns-44.net
+Name Server: ns-160.awsdns-20.com
+Name Server: ns-1077.awsdns-06.org
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+The registration data available in this service is limited.  Additional data may be available at https://lookup.icann.org.
+****** Last update of WHOIS database: 2025-02-25T08:50:15.514641Z

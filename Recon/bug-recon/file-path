@@ -1,0 +1,11 @@
+CunningRecon/
+├── recon.sh
+├── output/
+│   ├── subdomains.txt
+│   ├── alive.txt
+│   ├── ports.txt
+│   ├── wayback-paths.txt
+│   ├── gf-patterns.txt
+├── wordlists/
+├── tools/         # Optional, can include install notes
+├── README.md

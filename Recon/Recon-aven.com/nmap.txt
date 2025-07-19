@@ -1,0 +1,12 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-07-19 17:09 WAT
+Nmap scan report for aven.com (108.139.200.3)
+Host is up (1.2s latency).
+Other addresses for aven.com (not scanned): 108.139.200.83 108.139.200.43 108.139.200.91
+rDNS record for 108.139.200.3: server-108-139-200-3.los50.r.cloudfront.net
+Not shown: 97 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+587/tcp open  submission
+
+Nmap done: 1 IP address (1 host up) scanned in 12.60 seconds
